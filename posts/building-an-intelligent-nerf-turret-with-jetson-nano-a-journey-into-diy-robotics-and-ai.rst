@@ -18,7 +18,7 @@ Imagine transforming a simple toy into an intelligent machine that recognises an
 
 The Beginning: Assembling the Turret
 ====================================
-The   
+
 The project started with an open-source Nerf turret design 
 
 https://www.littlefrenchkev.com/bluetooth-nerf-turret 
