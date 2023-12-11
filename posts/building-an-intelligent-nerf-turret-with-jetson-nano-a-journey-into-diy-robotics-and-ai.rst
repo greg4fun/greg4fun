@@ -142,4 +142,3 @@ What started as a fun project with my son became a gateway into the fascinating 
     <iframe width="800" height="600" src="https://www.youtube.com/embed/krFlASb-rEQ?autoplay=1&mute=1">
     </iframe>
     </embed>
- 
